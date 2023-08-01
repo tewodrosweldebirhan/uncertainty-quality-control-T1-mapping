@@ -1,5 +1,7 @@
 # uncertainty-quality-control-T1-mapping
-Uncertainty based quality control for image segmentation
+<b> This project is currently under development. Please check back soon for updates.</b>
+
+Uncertainty-based quality control for image segmentation
 
 This repository has the implementation of a quality control method proposed in our paper titled "Automatic uncertainty-based quality controlled T1 mapping and ECV analysis from native and post-contrast cardiac T1 mapping images using Bayesian vision transformer", which was accepted to the Medical Image Analysis journal.
 
